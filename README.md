@@ -1,8 +1,8 @@
-# 🧳 Reservation Propensity Intelligence Engine (Hospitality e-Commerce)
+#  Reservation Propensity Intelligence Engine (Hospitality e-Commerce)
 
 Predicting whether users will book a hotel based on their search behavior.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project tackles the challenge of predicting hotel bookings using a large dataset of user searches. We perform:
 
@@ -14,7 +14,7 @@ This project tackles the challenge of predicting hotel bookings using a large da
 
 The final goal is to predict the probability of booking for each search instance.
 
-## 📂 Dataset
+##  Dataset
 
 Due to size constraints, the dataset is not included in the repo. You can download it via Google Drive:
 
